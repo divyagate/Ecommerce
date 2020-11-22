@@ -37,6 +37,8 @@ dependencies {
     // fire database storage for images
     implementation 'com.google.firebase:firebase-storage:19.2.0'
     // fire database storage for images
+    implementation 'com.firebaseui:firebase-ui-database:3.2.2'
+    implementation 'com.squareup.picasso:picasso:2.71828'
     // checkbox rey material plugin
     implementation 'com.github.rey5137:material:1.3.1'
     implementation 'androidx.cardview:cardview:1.0.0'
